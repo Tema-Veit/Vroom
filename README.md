@@ -1,17 +1,6 @@
 # vroom
 
-A new Flutter project.
+Vroom is a free mobile app for finding bus tickets .
+Find tickets for buses and minibuses, book them in advance at low prices and without prepayment.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Vroom
+https://user-images.githubusercontent.com/89742016/178728559-14a73807-19ce-4c1c-998c-b33e68fb222f.mp4
